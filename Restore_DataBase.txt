@@ -1,0 +1,6 @@
+
+1.- Dirígete al repositorio y descarga el archivo .backup en tu computadora.
+2.- Inicia pgAdmin 4 y conéctate al servidor PostgreSQL correspondiente.
+3.- Crear una nueva base de datos
+4.- Haz clic derecho sobre la base de datos creada y selecciona Restore.
+5.- En la ventana emergente, selecciona el archivo .backup descargado.
